@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/shrey/OneDrive/Documents/Semester-4/AML/Applied-Machine-Learning/Assignment_2/mlruns/0/6b9fa056caad440d9a77c4d0451bb86a/artifacts
+end_time: 1677515458485
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6b9fa056caad440d9a77c4d0451bb86a
+run_name: gregarious-trout-77
+run_uuid: 6b9fa056caad440d9a77c4d0451bb86a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677515446069
+status: 3
+tags: []
+user_id: shrey

@@ -1,0 +1,12 @@
+creation_timestamp: 1677515616032
+current_stage: None
+description: null
+last_updated_timestamp: 1677515616032
+name: multilayer-perceptron-model
+run_id: e126c5d10ea24e29aba0d809363bf358
+run_link: null
+source: file:///c:/Users/shrey/OneDrive/Documents/Semester-4/AML/Applied-Machine-Learning/Assignment_2/mlruns/0/e126c5d10ea24e29aba0d809363bf358/artifacts/sklearn-model
+status: READY
+status_message: null
+user_id: null
+version: 1

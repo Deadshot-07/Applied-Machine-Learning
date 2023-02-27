@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/shrey/OneDrive/Documents/Semester-4/AML/Applied-Machine-Learning/Assignment_2/mlruns/0/721e0ef61e5a4e9396fa1208de6ae2b4/artifacts
+end_time: 1677515398617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 721e0ef61e5a4e9396fa1208de6ae2b4
+run_name: clumsy-moth-697
+run_uuid: 721e0ef61e5a4e9396fa1208de6ae2b4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677515390072
+status: 3
+tags: []
+user_id: shrey

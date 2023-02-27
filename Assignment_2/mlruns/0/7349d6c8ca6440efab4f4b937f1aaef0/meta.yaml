@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/shrey/OneDrive/Documents/Semester-4/AML/Applied-Machine-Learning/Assignment_2/mlruns/0/7349d6c8ca6440efab4f4b937f1aaef0/artifacts
+end_time: 1677515490006
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7349d6c8ca6440efab4f4b937f1aaef0
+run_name: 'n_estimators : 100'
+run_uuid: 7349d6c8ca6440efab4f4b937f1aaef0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677515458565
+status: 3
+tags: []
+user_id: shrey

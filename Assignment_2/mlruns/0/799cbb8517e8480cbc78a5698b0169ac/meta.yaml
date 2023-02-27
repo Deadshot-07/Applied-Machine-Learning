@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/shrey/OneDrive/Documents/Semester-4/AML/Applied-Machine-Learning/Assignment_2/mlruns/0/799cbb8517e8480cbc78a5698b0169ac/artifacts
+end_time: 1677515422627
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 799cbb8517e8480cbc78a5698b0169ac
+run_name: Multinomial Naive Bayes
+run_uuid: 799cbb8517e8480cbc78a5698b0169ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1677515398707
+status: 3
+tags: []
+user_id: shrey
