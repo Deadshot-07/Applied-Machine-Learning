@@ -78,7 +78,7 @@ def test_nonspam(text=nonspam,model=loaded_model,threshold=threshold):
 
 def test_flask():
     # Launch the Flask app using os.system
-    os.system('python Assignment_3/app.py &')
+    os.system('start /b python Assignment_3/app.py &')
 
     # Wait for the app to start up
     time.sleep(1)
@@ -88,9 +88,8 @@ def test_flask():
     print(response.status_code)
 
     # Assert that the response is what we expect
-    assert response.status_code == 20
+    assert response.status_code == 200
     assert type(response.text) == str
 
     # Shut down the Flask app using os.system
     os.system('kill $(lsof -t -i:5000)')
-

@@ -1,3 +1,4 @@
+PS C:\Users\shrey\OneDrive\Documents\Semester-4\AML\Applied-Machine-Learning> pytest Assignment_3/test.py --verbose
 ========================================================== test session starts ===========================================================
 platform win32 -- Python 3.9.5, pytest-7.2.2, pluggy-1.0.0 -- c:\Users\shrey\AppData\Local\Programs\Python\Python39\python.exe
 cachedir: .pytest_cache
@@ -8,11 +9,11 @@ collected 9 items
 Assignment_3/test.py::test_smoke PASSED                                                                                             [ 11%]
 Assignment_3/test.py::test_format PASSED                                                                                            [ 22%]
 Assignment_3/test.py::test_pred PASSED                                                                                              [ 33%] 
-Assignment_3/test.py::test_prop PASSED                                                                                              [ 44%] 
-Assignment_3/test.py::test_threshold_0 PASSED                                                                                       [ 55%]
+Assignment_3/test.py::test_prop PASSED                                                                                              [ 44%]
+Assignment_3/test.py::test_threshold_0 PASSED                                                                                       [ 55%] 
 Assignment_3/test.py::test_threshold_1 PASSED                                                                                       [ 66%] 
 Assignment_3/test.py::test_spam PASSED                                                                                              [ 77%]
 Assignment_3/test.py::test_nonspam PASSED                                                                                           [ 88%] 
 Assignment_3/test.py::test_flask PASSED                                                                                             [100%]
-                                                                                                                                          
-========================================================== 9 passed in 4.00 s =============================================================
+
+=========================================================== 9 passed in 5.18s ============================================================  
