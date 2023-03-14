@@ -27,4 +27,4 @@ train_tfidf = tfidf.fit_transform(X_train)
 def score(text:str, model, threshold:float) -> tuple:
     propensity = model.predict_proba(tfidf.transform([text]))[0]
     desired_predict = (model.predict_proba(tfidf.transform([text]))[:,1] >= threshold).astype(bool)
-    return (bool(desired_predict[0]), float(max(propensity)))
+    return (bool(desired_predict[0]), float(propensity[1]))

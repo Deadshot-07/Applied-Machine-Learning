@@ -9,7 +9,7 @@ os.chdir('./Assignment_2/')
 loaded_model = mlflow.sklearn.load_model('models:/multilayer-perceptron-model/None')
 os.chdir('../')
 
-threshold=0.7
+threshold=0.5
 
 @app.route('/') 
 def home():
