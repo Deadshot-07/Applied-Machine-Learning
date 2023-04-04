@@ -1,0 +1,12 @@
+default_stages: [commit]
+default_language_version:
+  python: python3.9
+repos:
+  - repo: local
+    hooks:
+      - id: pytest-check
+        name: pytest-check
+        entry: pytest Assignment_4/test.py --verbose
+        language: python
+        pass_filenames: false
+        always_run: true
